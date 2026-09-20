@@ -1,0 +1,6 @@
+{
+  "name": "ASCII Magic - Video Dither Studio",
+  "description": "Transform YouTube videos, local clips, and live webcams into real-time dithered ASCII animations with custom dithering algorithms, retro color palettes, and video/GIF export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
